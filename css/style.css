@@ -19,3 +19,11 @@ img{
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
+body {
+  background-color: rgb(27, 25, 25);
+  color: white;
+}
+
+p {
+  font-size: 20px;
+}
